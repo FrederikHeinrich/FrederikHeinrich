@@ -1,9 +1,9 @@
 ### Hi there, I'm Freddi - aka [Frederik Heinrich][website] 👋
 
-## I'm a Weep, Developer, and ESportler!
+## I'm a Weeb, Developer, and ESportler!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Get a life
+- 🥅 2021 Goals: Get a life
 - ⚡ Fun fact: Doing this sh*t for over 10 Years!
 
 ### Connect with me:
