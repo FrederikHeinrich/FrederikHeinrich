@@ -3,19 +3,11 @@
 ## I'm a Weeb, Developer, and ESportler!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Get a life
+- 🥅 2022 Goals: Finish my First Public App
 - ⚡ Fun fact: Doing this sh*t for over 10 Years!
 
-### Connect with me:
 
-[<img align="left" alt="Frederik Heinrich.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
+### Languages and Tools i use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,9 +29,4 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frederikheinrich&show_icons=true&hide_border=true" />
-
-[website]: https://FrederikHeinrich.de
-[twitter]: https://twitter.com/Freddi_xyz
-[youtube]: https://freddi.yt/
-[instagram]: https://instagram.com/Freddi_xyz
+<img align="left" alt="Freddi´s Github Stats" src="https://github-readme-stats.vercel.app/api?username=frederikheinrich&show_icons=true&hide_border=true" />
