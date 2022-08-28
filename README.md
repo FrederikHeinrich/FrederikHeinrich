@@ -1,4 +1,4 @@
-### Hi there, I'm Freddi - aka [Frederik Heinrich][website] 👋
+### Hi there, I'm Freddi - aka Frederik Heinrich 👋
 
 ## I'm a Weeb, Developer, and ESportler!
 - 🌱 I’m currently learning everything 🤣
