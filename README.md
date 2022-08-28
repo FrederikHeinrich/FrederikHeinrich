@@ -1,6 +1,6 @@
 ### Hi there, I'm Freddi - aka Frederik Heinrich 👋
 
-## I'm a Weeb, Developer, and ESportler!
+## I'm a Full-Stack Developer, ESportler and something like Sysadmin!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Finish my First Public App
