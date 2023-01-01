@@ -3,8 +3,8 @@
 ## I'm a Full-Stack Developer, ESportler and something like Sysadmin!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Finish my First Public App
-- ⚡ Fun fact: Doing this sh*t for over 10 Years!
+- 🥅 2023 Goals: Finish my First Public App
+- ⚡ Fun fact: Doing this sh*t for over 12 Years!
 
 
 ### Languages and Tools i use:
