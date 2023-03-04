@@ -1,6 +1,6 @@
 ### Hi there, I'm Freddi - aka Frederik Heinrich 👋
 
-## I'm a Full-Stack Developer, ESportler and something like Sysadmin!
+## I'm a Full-Stack Developer and something like Sysadmin!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023 Goals: Finish my First Public App
